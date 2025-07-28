@@ -1,14 +1,14 @@
 # **Apresentação pessoal.**
 
 ## **Yasmin Oda Lima**
-#### *Data: 13/08/2024*
+#### *Data: 28/07/2025*
 
-Olá! Sou Yasmin Oda, estudante de Desenvolvimento de Sistemas no SENAI Jacob Lafer. Tenho 16 anos, sou apaixonada por tecnologia, especialmente programação e inteligência artificial. Estou sempre buscando novas oportunidades para aprender e colaborar em projetos inovadores.
+Olá! Sou Yasmin Oda, estudante de Desenvolvimento de Sistemas no SENAI Jacob Lafer. Tenho 17 anos, sou apaixonada por tecnologia, especialmente programação e design. Estou sempre buscando novas oportunidades para aprender e colaborar em projetos inovadores.
 
 ## **Contato**
 
 * **Email:** yasmin.odalima@gmail.com
-* **Telefone:** 11 98765-4321
+* **Telefone:** 11 99535-6288
 
 ## **Educação**
 
@@ -24,7 +24,7 @@ Olá! Sou Yasmin Oda, estudante de Desenvolvimento de Sistemas no SENAI Jacob La
 ## **Qualidades**
 
 * Trabalho em Equipe
-* Curiosidade
+* Comunicação
 * Resolução de Problemas
 
-© 2024 Yasmin. Todos os direitos reservados.
+© 2025 Yasmin. Todos os direitos reservados.
